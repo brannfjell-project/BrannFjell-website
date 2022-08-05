@@ -1,5 +1,5 @@
 theme: story
-baseurl: https://example.com/
+baseurl: https://brannfjell-project.netlify.app/
 title: Brannfjell
 paginate: 5
 buildFuture: yes
