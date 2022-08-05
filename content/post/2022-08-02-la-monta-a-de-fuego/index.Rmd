@@ -1,0 +1,39 @@
+---
+title: La montaña de fuego
+author: 'Jaime A Castro-Mondragon'
+date: '2022-08-02'
+slug: []
+categories:
+  - BrannFjell
+tags: []
+url: /post/2022-08-02-la-monta-a-de-fuego/2022-08-02-la-monta-a-de-fuego
+description: 'Una introduccion sobre el contenido de este blog.'
+tldr: ''
+image: 'img/Brannfjell.jpeg'
+credit: ''
+thumbnail: ''
+---
+
+Como primera entrada en este blog, vamos a dar una explicacion de por que elegimos
+este nombre para este proyecto. Los nombres con orien toponimico (es decir, asociados
+a un lugar) nos pueden dar muchas pistas de la historia de un sitio.
+
+Que significa *BrannFjell*? En noruego *Brann* (fuego) + *Fjell* (montaña), es el
+nombre de una pequeña montaña ubicada dentro de la ciudad de Oslo, Noruega. Se 
+ubica dentro de la zona conocida como *Ekeberg* (que a su vez significa el monte
+de los robles). Esta zona, tiene una riqueza cultural e historica considerable
+para la ciudad ^[Pueden encontrar mas detalles en la pagina de wikipedia (https://no.wikipedia.org/wiki/Brannfjell), esta escrita en noruego pero pueden usar el traductor automatico.], muchas de ellas muy antiguas,
+pues en esta zona se encuentran los primeros vestigios de habitantes en la region 
+que hoy es Oslo.
+
+Entre los vestigios arqueologicos tenemos:
+
+- Entierros en forma de barcos (ship stones)
+- Petroglifos (Skålgroper; cup marks)
+- Circulos de piedras
+- Arte rupestre
+
+Me llama la atencion que esta zona tenga una riqueza de estos sitios, que tiene
+este lugar para haber sido elegido para hacer aqui estos trabajos?
+
+

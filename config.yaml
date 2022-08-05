@@ -1,0 +1,32 @@
+theme: story
+baseurl: https://example.com/
+title: Brannfjell
+paginate: 5
+buildFuture: yes
+menu:
+  main:
+    - name: Archives
+      title: Archives
+      url: /archives/
+    - name: About
+      title: About
+      url: /authors/jacm/
+  social:
+    - name: GitHub
+      title: fab fa-github-square
+      url: https://github.com/brannfjell-project
+params:
+  author: BrannFjell project
+  classes: []
+  twitter: sometwitteruser
+outputs:
+  home:
+    - HTML
+    - JSON
+  page: HTML
+  section:
+    - HTML
+  taxonomy:
+    - HTML
+  taxonomyTerm:
+    - HTML
