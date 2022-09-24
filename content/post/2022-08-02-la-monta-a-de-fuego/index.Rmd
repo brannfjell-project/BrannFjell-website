@@ -61,6 +61,10 @@ Aunque no sabemos exactamente el origen del nombre de este lugar, *BrannFjell*,
 dados los elementos presentes podemos asociarlo con un lugar de culto al fuego,
 al Sol ^[Esta es por ahora una suposicion, que esperamos que podamos aclararla en algun momento.].
 
+```{r fogata, eval=TRUE, echo=FALSE, fig.cap="", cache=FALSE, include=TRUE, out.height="300px", out.width="350px", fig.align='center'}
+knitr::include_graphics("../../../content/img/fogata.jpg", dpi = 100)
+```
+
 No me parece coincidencia que este sitio tambien fue el lugar donde vivio y trabajo
 [*Anne Brandfjeld*](https://no.wikipedia.org/wiki/Anne_Brandfjeld)^[El articulo esta escrito en noruego pero pueden usar el traductor automatico.] una de las pocas 
 *mujeres sabias* (o tambien llamadas *mujeres troll*, *trollkuna* en noruego) conocidas
